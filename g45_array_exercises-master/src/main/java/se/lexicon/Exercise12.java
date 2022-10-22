@@ -30,10 +30,8 @@ public class Exercise12 {
           }
         }
       }
-
     }
     System.out.println(" ");
-
   }
   public static int[][] printArray (int[][] array) {
 
